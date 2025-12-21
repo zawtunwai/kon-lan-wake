@@ -22,7 +22,7 @@ logger = logging.getLogger(__name__)
 
 # Configuration
 DATABASE_PATH = os.environ.get("DATABASE_PATH", "/etc/zivpn/zivpn.db")
-BOT_TOKEN = "8589710728:AAH92e3A2zoPaH2K2lDXBUlUWp2y7UL0Pvc"
+BOT_TOKEN = "8232931984:AAH6J6NV-qpD0c-Nlaux6qrTVAflT6SpSqc"
 CONFIG_FILE = "/etc/zivpn/config.json"
 
 # Admin configuration - ONLY YOUR ID CAN SEE ADMIN COMMANDS
