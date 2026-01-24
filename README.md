@@ -34,23 +34,6 @@
 
 ---
 
-## 🚀 Script command နှစ်ခုလုံး ကြိုက်တာသုံးရန်
-## 🚀 Quick Install
-
-**Option 1:**
-```
-apt update && apt upgrade -y && apt install python3 python3-pip -y && pip3 install python-telegram-bot==13.15 && bash <(curl -sSL https://zivpn.khainglay.web.id)
-```
-
-
-## 🚀 Quick Install
-
-**Option 2:**
-```
-apt update && apt upgrade -y && apt install python3 python3-pip -y && pip3 install python-telegram-bot==13.15 && bash <(curl -sSL https://vip-panel.zivpn-delivery.workers.dev)
-```
-
-
 ## 🌟 Features
 
 ### 🚀 Core VPN Server
@@ -90,7 +73,6 @@ apt update && apt upgrade -y && apt install python3 python3-pip -y && pip3 insta
 ```
 apt update && apt upgrade -y && apt install python3 python3-pip -y && pip3 install python-telegram-bot==13.15 && bash <(curl -sSL https://zivpn.khainglay.web.id)
 ```
-
 
 ## 🚀 Quick Install
 
