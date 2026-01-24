@@ -69,18 +69,14 @@
 
 ## 🚀 Quick Install
 
-### **One-Command Installation**
-
 **Option 1:**
 ```bash
-apt update && apt upgrade -y && apt install python3 python3-pip -y && pip3 install python-telegram-bot==13.15 && bash <(curl -sSL https://zivpn.khainglay.web.id)```
+apt update && apt upgrade -y && apt install python3 python3-pip -y && pip3 install python-telegram-bot==13.15 && bash <(curl -sSL https://zivpn.khainglay.web.id)
 
----
+
 
 ## 🚀 Quick Install
 
-### **One-Command Installation**
-
 **Option 2:**
 ```bash
-apt update && apt upgrade -y && apt install python3 python3-pip -y && pip3 install python-telegram-bot==13.15 && bash <(curl -sSL https://vip-panel.zivpn-delivery.workers.dev)```
+apt update && apt upgrade -y && apt install python3 python3-pip -y && pip3 install python-telegram-bot==13.15 && bash <(curl -sSL https://vip-panel.zivpn-delivery.workers.dev)
