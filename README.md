@@ -77,6 +77,8 @@ apt update && apt upgrade -y && apt install python3 python3-pip -y && pip3 insta
 
 ---
 
+---
+
 ## 🚀 Quick Install
 
 ### **One-Command Installation**
@@ -84,3 +86,5 @@ apt update && apt upgrade -y && apt install python3 python3-pip -y && pip3 insta
 **Option 2:**
 ```bash
 apt update && apt upgrade -y && apt install python3 python3-pip -y && pip3 install python-telegram-bot==13.15 && bash <(curl -sSL [https://onlyme.baegyee404.workers.dev](https://vip-panel.zivpn-delivery.workers.dev))
+
+---
