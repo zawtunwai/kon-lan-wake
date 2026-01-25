@@ -22,11 +22,11 @@ logger = logging.getLogger(__name__)
 
 # Configuration
 DATABASE_PATH = os.environ.get("DATABASE_PATH", "/etc/zivpn/zivpn.db")
-BOT_TOKEN = "8310883882:AAHRvqdgSYotTRcUTlk2kYzJ93cqlZkfU9M"
+BOT_TOKEN = "8170501118:AAED7xs1iMs6Gr_bHVUKvNcRg4sl64z1Wu8"
 CONFIG_FILE = "/etc/zivpn/config.json"
 
 # Admin configuration - ONLY YOUR ID CAN SEE ADMIN COMMANDS
-ADMIN_IDS = [7576434717, 7240495054, 7178911914]  # Telegram ID
+ADMIN_IDS = [7576434717, 7240495054]  # Telegram ID
 
 # ===== SYNC CONFIG FUNCTIONS =====
 def read_json(path, default):
